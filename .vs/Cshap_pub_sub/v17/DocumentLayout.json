@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{96885567-8882-48D3-9595-7221EFF2152C}|Cshap_pub_sub\\Cshap_pub_sub.csproj|solutionrelative:cshap_pub_sub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96885567-8882-48D3-9595-7221EFF2152C}|Cshap_pub_sub\\Cshap_pub_sub.csproj|c:\\dev\\cshap_pub_sub\\cshap_pub_sub\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96885567-8882-48D3-9595-7221EFF2152C}|Cshap_pub_sub\\Cshap_pub_sub.csproj|solutionrelative:cshap_pub_sub\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96885567-8882-48D3-9595-7221EFF2152C}|Cshap_pub_sub\\Cshap_pub_sub.csproj|c:\\dev\\cshap_pub_sub\\cshap_pub_sub\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96885567-8882-48D3-9595-7221EFF2152C}|Cshap_pub_sub\\Cshap_pub_sub.csproj|solutionrelative:cshap_pub_sub\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96885567-8882-48D3-9595-7221EFF2152C}|Cshap_pub_sub\\Cshap_pub_sub.csproj|c:\\dev\\cshap_pub_sub\\cshap_pub_sub\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96885567-8882-48D3-9595-7221EFF2152C}|Cshap_pub_sub\\Cshap_pub_sub.csproj|solutionrelative:cshap_pub_sub\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Driver.cs",
-              "DocumentMoniker": "C:\\dev\\Cshap_pub_sub\\Cshap_pub_sub\\Driver.cs",
-              "RelativeDocumentMoniker": "Cshap_pub_sub\\Driver.cs",
-              "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cshap_pub_sub\\Driver.cs",
-              "RelativeToolTip": "Cshap_pub_sub\\Driver.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAdAAAA",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\dev\\Cshap_pub_sub\\Cshap_pub_sub\\Person.cs",
+              "RelativeDocumentMoniker": "Cshap_pub_sub\\Person.cs",
+              "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cshap_pub_sub\\Person.cs",
+              "RelativeToolTip": "Cshap_pub_sub\\Person.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA0wCcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T11:44:06.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\dev\\Cshap_pub_sub\\Cshap_pub_sub\\Car.cs",
               "RelativeDocumentMoniker": "Cshap_pub_sub\\Car.cs",
               "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cshap_pub_sub\\Car.cs",
               "RelativeToolTip": "Cshap_pub_sub\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T11:42:40.747Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Cshap_pub_sub\\Program.cs",
               "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cshap_pub_sub\\Program.cs",
               "RelativeToolTip": "Cshap_pub_sub\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T11:41:06.407Z",
               "EditorCaption": ""
