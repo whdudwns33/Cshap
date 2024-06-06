@@ -12,3 +12,4 @@ C:\dev\Cshap_pub_sub\Cshap_pub_sub\obj\Debug\net8.0\refint\Cshap_pub_sub.dll
 C:\dev\Cshap_pub_sub\Cshap_pub_sub\obj\Debug\net8.0\Cshap_pub_sub.pdb
 C:\dev\Cshap_pub_sub\Cshap_pub_sub\obj\Debug\net8.0\Cshap_pub_sub.genruntimeconfig.cache
 C:\dev\Cshap_pub_sub\Cshap_pub_sub\obj\Debug\net8.0\ref\Cshap_pub_sub.dll
+C:\dev\Cshap_pub_sub\Cshap_pub_sub\obj\Debug\net8.0\Cshap_pub_sub.sourcelink.json

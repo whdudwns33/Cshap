@@ -4,32 +4,50 @@ using Cshap_pub_sub;
 
 class Program
 {
-    // 이벤트 선언
-    public event EventHandler<string> SomethingHappened;
-
     // 실행
     static void Main(string[] args)
     {
-        // Person 객체 생성
-        Console.Write("Person의 이름을 입력하세요 : ");
-        string name = Console.ReadLine();
-        Console.Write("Person의 나이를 입력하세요 : ");
-        int age = int.Parse(Console.ReadLine());
-        Console.Write("Person의 type을 입력하세요 : ");
-        string type = Console.ReadLine();
+        Event eventPublisher = new Event();
+        Console.WriteLine("person 정보 입력 이름, 나이, 정보 [운전수 | 승객]");
+        string personName = Console.ReadLine();
+        string personAge = Console.ReadLine();
+        string personType= Console.ReadLine();
+        // 사람 정보 등록
+        Person person = new Person(personName, int.Parse(personAge), personType);
 
-        Person person = new Person(name, age, type);
+        // 자동차 정보
+        Console.WriteLine("car 정보 입력 [BUS | TAXI], ");
+        string carModel = Console.ReadLine();
+        string carName = Console.ReadLine();
+        Car car = new Car(carModel, carName);
 
-        // Car 객체 생성
-        Car car = new Car("MyCar");
+        // 구독
+        person.Subscribe(eventPublisher);
+        car.Subscribe(eventPublisher);
 
-        // 이벤트 핸들러 연결을 Person 클래스의 메서드를 통해 구독
-        person.Subscribe(car.OnSomethingHappened);
+        // 이벤트 발생
+        person.DoSomething(eventPublisher, "탑승");
+        car.Drive(eventPublisher, "운행");
 
-        // Person이 어떤 행동을 할 때 Car가 반응함
-        person.DoSomething("running");
+        // 구독 해제
+        person.Unsubscribe(eventPublisher);
+        car.Unsubscribe(eventPublisher);
 
-        // 대기
         Console.ReadLine();
+
+        // 코드 결과 예시
+        /*
+         *Person 이벤트
+        33세 운전수인 aa은 탑승을(를) 합니다.
+        Bus 현대은 탑승을(를) 합니다.
+        
+        Car 이벤트
+        33세 운전수인 aa은 운행을(를) 합니다.
+        Bus 현대은 운행을(를) 합니다. 
+        
+        1. 이벤트 구독-해제의 순서, 타이밍 문제 해결 필요 (switch case 등으로 해결 필요) 
+        2. Event 자체 이해 필요 (문법 공부 필요)
+         */
     }
+
 }

@@ -7,14 +7,11 @@ using System.Threading.Tasks;
 namespace Cshap_pub_sub
 {
     // Person 클래스 정의
-    class Person
+    class Person : ISubscriber
     {
         public string Name { get; set; }
         public int Age { get; set; }
         public string Type { get; set; }
-
-        // 이벤트 선언
-        public event EventHandler<string> SomethingHappened;
 
         // 생성자
         public Person(string name, int age, string type)
@@ -24,18 +21,30 @@ namespace Cshap_pub_sub
             this.Type = type;
         }
 
-        // 메서드
-        public void DoSomething(string action)
+        public void DoSomething(Event publisher, string action)
         {
-            Console.WriteLine($"{Name} is doing something: {action}");
+            Console.WriteLine($"Person 이벤트");
             // 이벤트 트리거
-            SomethingHappened?.Invoke(this, action);
+            publisher.OnSomethingHappened(action);
         }
 
         // 구독 메서드
-        public void Subscribe(EventHandler<string> eventHandler)
+        public void Subscribe(Event eventPublisher)
         {
-            SomethingHappened += eventHandler;
+            eventPublisher.SomethingHappened += HandleSomethingHappened;
+        }
+        // 구독 해제 메서드
+        public void Unsubscribe(Event eventPublisher)
+        {
+            eventPublisher.SomethingHappened += HandleSomethingHappened;
+        }
+
+        // 이벤트 핸들러 메서드
+        // sender의 역할
+        // 이벤트 핸들러 메서드
+        public void HandleSomethingHappened(object sender, string action)
+        {
+            Console.WriteLine($"{Age}세 {Type}인 {Name}은 {action}을(를) 합니다.");
         }
     }
-    }
+ }
