@@ -18,6 +18,8 @@ namespace Cshap_pub_sub
             this.Type = type;
         }
 
+        
+
         public void Drive(Event publisher, string action)
         {
             Console.WriteLine($"Car 이벤트");

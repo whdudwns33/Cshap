@@ -21,6 +21,8 @@ namespace Cshap_pub_sub
             this.Type = type;
         }
 
+        
+
         public void DoSomething(Event publisher, string action)
         {
             Console.WriteLine($"Person 이벤트");
@@ -36,7 +38,7 @@ namespace Cshap_pub_sub
         // 구독 해제 메서드
         public void Unsubscribe(Event eventPublisher)
         {
-            eventPublisher.SomethingHappened += HandleSomethingHappened;
+            eventPublisher.SomethingHappened -= HandleSomethingHappened;
         }
 
         // 이벤트 핸들러 메서드

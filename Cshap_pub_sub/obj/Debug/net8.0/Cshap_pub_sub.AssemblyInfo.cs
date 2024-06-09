@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cshap_pub_sub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd4992f56190999f9c6679d87f2886ffde98d778")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8ebdf61df9c2bb3f57d71a6a4baadcbae7e875a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cshap_pub_sub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cshap_pub_sub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
