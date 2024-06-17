@@ -1,0 +1,5 @@
+C:\dev\Cshap_pub_sub\Cs_pr01\obj\Debug\Cs_pr01.csproj.AssemblyReference.cache
+C:\dev\Cshap_pub_sub\Cs_pr01\obj\Debug\Cs_pr01.Properties.Resources.resources
+C:\dev\Cshap_pub_sub\Cs_pr01\obj\Debug\Cs_pr01.Form1.resources
+C:\dev\Cshap_pub_sub\Cs_pr01\obj\Debug\Cs_pr01.csproj.GenerateResource.cache
+C:\dev\Cshap_pub_sub\Cs_pr01\obj\Debug\Cs_pr01.csproj.CoreCompileInputs.cache

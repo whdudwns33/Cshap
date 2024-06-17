@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\Cs_pr01\\",
+  "WorkspaceRootPath": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cs_pr01\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cshap_pub_sub\\cs_pr01\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|solutionrelative:view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cs_pr01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cshap_pub_sub\\cs_pr01\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cs_pr01\\sql\\boardsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|solutionrelative:sql\\boardsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cshap_pub_sub\\cs_pr01\\controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|solutionrelative:controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cs_pr01\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cshap_pub_sub\\cs_pr01\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|solutionrelative:model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cs_pr01\\controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|solutionrelative:controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cshap_pub_sub\\cs_pr01\\sql\\boardsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|solutionrelative:sql\\boardsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|c:\\dev\\cshap_pub_sub\\cs_pr01\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C61448-CE0E-4F39-96DE-E7EC803BE2A3}|Cs_pr01.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,66 +40,79 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\dev\\Cs_pr01\\VIew\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\VIew\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "VIew\\Form1.Designer.cs",
-              "ToolTip": "C:\\dev\\Cs_pr01\\VIew\\Form1.Designer.cs",
+              "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\VIew\\Form1.Designer.cs",
               "RelativeToolTip": "VIew\\Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T14:14:54.898Z",
+              "WhenOpened": "2024-06-17T11:52:01.612Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\Cs_pr01\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\dev\\Cs_pr01\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T14:14:45.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BoardSql.cs",
-              "DocumentMoniker": "C:\\dev\\Cs_pr01\\Sql\\BoardSql.cs",
+              "DocumentMoniker": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\Sql\\BoardSql.cs",
               "RelativeDocumentMoniker": "Sql\\BoardSql.cs",
-              "ToolTip": "C:\\dev\\Cs_pr01\\Sql\\BoardSql.cs",
+              "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\Sql\\BoardSql.cs",
               "RelativeToolTip": "Sql\\BoardSql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T14:14:43.565Z",
+              "WhenOpened": "2024-06-17T11:56:07.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Post.cs",
-              "DocumentMoniker": "C:\\dev\\Cs_pr01\\Model\\Post.cs",
+              "DocumentMoniker": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\Model\\Post.cs",
               "RelativeDocumentMoniker": "Model\\Post.cs",
-              "ToolTip": "C:\\dev\\Cs_pr01\\Model\\Post.cs",
+              "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\Model\\Post.cs",
               "RelativeToolTip": "Model\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T14:14:41.018Z",
+              "WhenOpened": "2024-06-17T11:55:59.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\dev\\Cs_pr01\\Controller\\PostController.cs",
+              "DocumentMoniker": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\Controller\\PostController.cs",
               "RelativeDocumentMoniker": "Controller\\PostController.cs",
-              "ToolTip": "C:\\dev\\Cs_pr01\\Controller\\PostController.cs",
+              "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\Controller\\PostController.cs",
               "RelativeToolTip": "Controller\\PostController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T14:05:05.641Z",
+              "WhenOpened": "2024-06-17T11:54:30.738Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\VIew\\Form1.cs",
+              "RelativeDocumentMoniker": "VIew\\Form1.cs",
+              "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\VIew\\Form1.cs",
+              "RelativeToolTip": "VIew\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:54:25.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\VIew\\Form1.cs",
+              "RelativeDocumentMoniker": "VIew\\Form1.cs",
+              "ToolTip": "C:\\dev\\Cshap_pub_sub\\Cs_pr01\\VIew\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "VIew\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:51:54.286Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }
