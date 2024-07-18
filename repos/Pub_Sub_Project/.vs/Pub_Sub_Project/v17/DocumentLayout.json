@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jojo6\\source\\repos\\Pub_Sub_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33CE37E-4209-4F38-B756-21937AC00FB5}|Pub_Sub_Project\\Pub_Sub_Project.csproj|c:\\users\\jojo6\\source\\repos\\pub_sub_project\\pub_sub_project\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33CE37E-4209-4F38-B756-21937AC00FB5}|Pub_Sub_Project\\Pub_Sub_Project.csproj|solutionrelative:pub_sub_project\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33CE37E-4209-4F38-B756-21937AC00FB5}|Pub_Sub_Project\\Pub_Sub_Project.csproj|c:\\users\\jojo6\\source\\repos\\pub_sub_project\\pub_sub_project\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33CE37E-4209-4F38-B756-21937AC00FB5}|Pub_Sub_Project\\Pub_Sub_Project.csproj|solutionrelative:pub_sub_project\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33CE37E-4209-4F38-B756-21937AC00FB5}|Pub_Sub_Project\\Pub_Sub_Project.csproj|c:\\users\\jojo6\\source\\repos\\pub_sub_project\\pub_sub_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33CE37E-4209-4F38-B756-21937AC00FB5}|Pub_Sub_Project\\Pub_Sub_Project.csproj|solutionrelative:pub_sub_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33CE37E-4209-4F38-B756-21937AC00FB5}|Pub_Sub_Project\\Pub_Sub_Project.csproj|c:\\users\\jojo6\\source\\repos\\pub_sub_project\\pub_sub_project\\messagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33CE37E-4209-4F38-B756-21937AC00FB5}|Pub_Sub_Project\\Pub_Sub_Project.csproj|solutionrelative:pub_sub_project\\messagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageData.cs",
+              "DocumentMoniker": "C:\\Users\\jojo6\\source\\repos\\Pub_Sub_Project\\Pub_Sub_Project\\MessageData.cs",
+              "RelativeDocumentMoniker": "Pub_Sub_Project\\MessageData.cs",
+              "ToolTip": "C:\\Users\\jojo6\\source\\repos\\Pub_Sub_Project\\Pub_Sub_Project\\MessageData.cs",
+              "RelativeToolTip": "Pub_Sub_Project\\MessageData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:03:15.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\jojo6\\source\\repos\\Pub_Sub_Project\\Pub_Sub_Project\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Pub_Sub_Project\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\jojo6\\source\\repos\\Pub_Sub_Project\\Pub_Sub_Project\\Subscriber.cs",
+              "RelativeToolTip": "Pub_Sub_Project\\Subscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:01:26.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\jojo6\\source\\repos\\Pub_Sub_Project\\Pub_Sub_Project\\Publisher.cs",
+              "RelativeDocumentMoniker": "Pub_Sub_Project\\Publisher.cs",
+              "ToolTip": "C:\\Users\\jojo6\\source\\repos\\Pub_Sub_Project\\Pub_Sub_Project\\Publisher.cs",
+              "RelativeToolTip": "Pub_Sub_Project\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:01:09.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jojo6\\source\\repos\\Pub_Sub_Project\\Pub_Sub_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Pub_Sub_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\jojo6\\source\\repos\\Pub_Sub_Project\\Pub_Sub_Project\\Program.cs",
+              "RelativeToolTip": "Pub_Sub_Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:56:58.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "EfVEdobKq6fYYbwRdaeQZ7kko015RkgSStLwryze+gQ=",
+  "Source": "my_csProject.Server",
+  "BasePath": "_content/my_csProject.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csproject.client\\my_csproject.client.esproj",
+      "Version": 2,
+      "Source": "my_csproject.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

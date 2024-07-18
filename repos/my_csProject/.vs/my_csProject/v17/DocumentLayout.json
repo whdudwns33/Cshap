@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|c:\\users\\jojo6\\source\\repos\\my_csproject\\my_csproject.server\\dbcontext\\mydbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|solutionrelative:my_csproject.server\\dbcontext\\mydbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|c:\\users\\jojo6\\source\\repos\\my_csproject\\my_csproject.server\\dapper\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|solutionrelative:my_csproject.server\\dapper\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|c:\\users\\jojo6\\source\\repos\\my_csproject\\my_csproject.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|solutionrelative:my_csproject.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|c:\\users\\jojo6\\source\\repos\\my_csproject\\my_csproject.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|solutionrelative:my_csproject.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|c:\\users\\jojo6\\source\\repos\\my_csproject\\my_csproject.server\\utility\\filename.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF5490CF-D668-4FC6-BE6F-FBB8C1ED5C7B}|my_csProject.Server\\my_csProject.Server.csproj|solutionrelative:my_csproject.server\\utility\\filename.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "my_csProject.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\appsettings.json",
+              "RelativeToolTip": "my_csProject.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T10:33:26.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\Program.cs",
+              "RelativeDocumentMoniker": "my_csProject.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\Program.cs",
+              "RelativeToolTip": "my_csProject.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:09:15.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\Dbcontext\\MyDbContext .cs",
+              "RelativeDocumentMoniker": "my_csProject.Server\\Dbcontext\\MyDbContext .cs",
+              "ToolTip": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\Dbcontext\\MyDbContext .cs",
+              "RelativeToolTip": "my_csProject.Server\\Dbcontext\\MyDbContext .cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:56:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\Dapper\\PostRepository.cs",
+              "RelativeDocumentMoniker": "my_csProject.Server\\Dapper\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\Dapper\\PostRepository.cs",
+              "RelativeToolTip": "my_csProject.Server\\Dapper\\PostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:42:07.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileName.txt",
+              "DocumentMoniker": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\Utility\\FileName.txt",
+              "RelativeDocumentMoniker": "my_csProject.Server\\Utility\\FileName.txt",
+              "ToolTip": "C:\\Users\\jojo6\\source\\repos\\my_csProject\\my_csProject.Server\\Utility\\FileName.txt",
+              "RelativeToolTip": "my_csProject.Server\\Utility\\FileName.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-15T11:01:43.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
